@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "sword",
+  "name": "Custom Sword",
+  "description": "My first minecraft mod which adds a custom sword",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Reuben Schiopu (MangoCoder360)"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
